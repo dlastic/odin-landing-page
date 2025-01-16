@@ -5,9 +5,10 @@ This project is part of [The Odin Project's Foundations Course](https://www.theo
 ## Features
 
 - **Header:** Includes a logo and navigation links.
-- **Hero Section:** Features a title, subtext, and call-to-action button.
+- **Hero Section:** Features a title, subtext, and sign-up button.
 - **Information Section:** Grid layout with placeholder images and text.
 - **Testimonial Section:** Inspiring quote with author attribution.
+- **Call-to-action Section:** Call-to-action text with a sign-up button.
 - **Footer:** Displays a copyright notice.
 
 ## Technologies Used
